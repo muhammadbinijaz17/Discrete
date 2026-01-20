@@ -100,7 +100,7 @@ It was one of the **most challenging and rewarding projects of my first semester
 ## 🙌 Author
 
 **Muhammad Bin Ijaz**
-Computer Science Student
+Software Engineering Student
 
 ---
 
