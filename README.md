@@ -97,11 +97,4 @@ It was one of the **most challenging and rewarding projects of my first semester
 
 ---
 
-## 🙌 Author
-
-**Muhammad Bin Ijaz**
-Software Engineering Student
-
----
-
 ⭐ If you found this project helpful or interesting, feel free to star the repository!
